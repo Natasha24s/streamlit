@@ -25,7 +25,7 @@ or
 
 3. In the Streamlit app code, update the `app.py` file to ue your own API Gateway endpoint URL you got in your CFN deployment.
 
-![Alt text](https://github.com/Natasha24s/aws-streamlit-apigw-langchain-bedrock-dynamodb-chatbot/blob/main/images/config.py%20file.png)
+![Alt text](https://github.com/Natasha24s/streamlit/blob/main/images/api.png)
 
 4. Run the app: `streamlit run src/app.py`
 
