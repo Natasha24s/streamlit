@@ -4,7 +4,7 @@ An AI-powered application that generates custom watch faces using Amazon Bedrock
 
 ## Setup
 
-1. Clone this repository: `https://github.com/Natasha24s/streamlit.git`
+1. Clone this repository: `git clone https://github.com/Natasha24s/streamlit.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run src/app.py`
 
@@ -17,3 +17,21 @@ See `docs/usage.md` for detailed usage instructions.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+or 
+
+1. Download the zip files from `https://github.com/Natasha24s/streamlit.git`
+2. Open the file in Visual code. Select the following option to install dependency.
+
+3. In the Streamlit app code, update the `app.py` file to ue your own API Gateway endpoint URL you got in your CFN deployment.
+
+![Alt text](https://github.com/Natasha24s/aws-streamlit-apigw-langchain-bedrock-dynamodb-chatbot/blob/main/images/config.py%20file.png)
+
+4. Run the app: `streamlit run src/app.py`
+
+![Alt text](https://github.com/Natasha24s/aws-streamlit-apigw-langchain-bedrock-dynamodb-chatbot/blob/main/images/streamlit%20run%20command.png)
+
+It will show up in your browser as shown below:
+
+![](https://github.com/Natasha24s/aws-streamlit-apigw-langchain-bedrock-dynamodb-chatbot/blob/main/images/Streamlit.png)
+
