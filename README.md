@@ -4,7 +4,7 @@ An AI-powered application that generates custom watch faces using Amazon Bedrock
 
 ## Setup
 
-1. Clone this repository: `https://github.com/Natasha24s/aws-streamlit-api-gateway-chatbot.git`
+1. Clone this repository: `https://github.com/Natasha24s/streamlit.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run src/app.py`
 
