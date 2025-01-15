@@ -29,7 +29,7 @@ or
 
 4. Run the app: `streamlit run src/app.py`
 
-![Alt text](https://github.com/Natasha24s/streamlit/blob/main/images/api.png)
+![Alt text](https://github.com/Natasha24s/streamlit/blob/main/images/run.png)
 
 It will show up in your browser as shown below:
 
