@@ -33,5 +33,5 @@ or
 
 It will show up in your browser as shown below:
 
-![](https://github.com/Natasha24s/aws-streamlit-apigw-langchain-bedrock-dynamodb-chatbot/blob/main/images/Streamlit.png)
+![](https://github.com/Natasha24s/streamlit/blob/main/images/UI.png)
 
